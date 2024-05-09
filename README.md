@@ -42,3 +42,12 @@ Como experto en control de calidad (QA), abordaría estos errores de la siguient
 - Respecto al botón de reserva faltante, revisaría el código fuente o la estructura de la página para asegurarme de que el elemento esté presente y accesible.
 - Si el botón está ausente, informaría al equipo de desarrollo para que lo agreguen, como tambien un mensaje de reserva exitosa
 - Documentaría ambos problemas y los reportaría para su corrección.
+
+# Requisitos Para Ejecucion
+- Clonar Repositorio
+- Java Development Kit (JDK) 17
+- Gradle 7.6.3
+- Gherkin
+- Chrome Version > 100
+
+
