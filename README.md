@@ -26,7 +26,7 @@ Pasos:
 
 ## Defectos Encontrados
 
-Como experto en control de calidad (QA), abordaría estos errores de la siguiente manera:
+Como (QA), abordaría estos errores de la siguiente manera:
 
 ## Funcionalidad de inicio de sesión no funcional:
 - Primero, verificaría si el problema es específico de la automatización o si también ocurre manualmente. Si es un problema general, informaría al equipo de desarrollo para que lo solucionen.
