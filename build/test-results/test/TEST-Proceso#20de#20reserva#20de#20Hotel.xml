@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Proceso de reserva de Hotel" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-09T03:01:32" hostname="DESKTOP-COSPO61" time="18.546">
+<testsuite name="Proceso de reserva de Hotel" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-09T03:21:49" hostname="DESKTOP-COSPO61" time="26.642">
   <properties/>
-  <testcase name="Reserva de hotel en DXHotels" classname="Proceso de reserva de Hotel" time="18.546"/>
+  <testcase name="Reserva de hotel en DXHotels" classname="Proceso de reserva de Hotel" time="26.642"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO  - 
   _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
@@ -13,9 +13,9 @@ Reserva de hotel en DXHotels(proceso-de-reserva-de-hotel;reserva-de-hotel-en-dxh
 --------------------------------------------------------------------------------
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Starting Chrome driver instance with capabilities:
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*, --incognito, --start-maximized, --disable-gpu, --disable-extensions], extensions: []}}
-may. 08, 2024 10:01:35 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+may. 08, 2024 10:21:52 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 ADVERTENCIA: Unable to find CDP implementation matching 124
-may. 08, 2024 10:01:35 P. M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+may. 08, 2024 10:21:52 P. M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
 ADVERTENCIA: Unable to find version of CDP to use for 124.0.6367.119. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 [Test worker] INFO  - ?[92m
   _____   ___   ___   _____     ___     _     ___   ___   ___   ___  

@@ -13,9 +13,6 @@ public class AplicarFiltros implements Task {
         actor.wasAbleTo(
                 Click.on(RANGO_PRECIO),
 
-
-
-                //Click.on(RANGO_PRECIO_CUSTOM),
                 Click.on(ESTRELLA1),
                 Click.on(ESTRELLA2),
                 Click.on(BTN_APPLY)

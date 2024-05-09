@@ -47,3 +47,9 @@ m
 =src/main/java/com/co/tevolvers/task/front/AplicarFiltros.java,f\9\f9b6080f5ba2f61900359ad56df2e69d9f37ebf5
 {
 Ksrc/main/java/com/co/tevolvers/userinterface/dxhotels/AplicarFiltrosUI.java,5\4\5432a5580aeba12952917e433f314ff80158994e
+y
+Isrc/main/java/com/co/tevolvers/userinterface/dxhotels/SeleccionHotel.java,c\e\cec80ab75513d4ae2db3c632f752b58e4514cb44
+o
+?src/main/java/com/co/tevolvers/task/front/SeleccionarHotel.java,4\0\404d052f41deadaac06647e09d21b68be7449d7e
+d
+4src/main/java/com/co/tevolvers/task/front/Login.java,a\4\a41941fdae9e7dc640a0de2a38920e189d8b5921

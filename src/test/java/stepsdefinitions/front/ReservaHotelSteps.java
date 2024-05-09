@@ -3,6 +3,7 @@ package stepsdefinitions.front;
 import com.co.tevolvers.task.front.AbrirWeb;
 import com.co.tevolvers.task.front.AplicarFiltros;
 import com.co.tevolvers.task.front.LlenarCamposHotel;
+import com.co.tevolvers.task.front.SeleccionarHotel;
 import io.cucumber.java.Before;
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Dado;
@@ -32,6 +33,7 @@ public class ReservaHotelSteps extends SetupFront {
     }
     @Cuando("escoge el hotel mas economico de la lista")
     public void escoge_el_hotel_mas_economico_de_la_lista() {
+        theActorInTheSpotlight().attemptsTo(SeleccionarHotel.seleccionarHotel());
 
     }
     @Entonces("se muestra un mensaje de confirmación de reserva exitosa")
