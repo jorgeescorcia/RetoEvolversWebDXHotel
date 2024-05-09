@@ -33,3 +33,17 @@ p
 0src/test/java/runners/front/TestRunnerLogin.java,1\a\1abde14689afd0f32cd514104c494aaaa5f5d28e
 d
 4src/test/java/stepsdefinitions/front/LoginSteps.java,9\f\9fdea44810c60ae64d62221009bfaeadff66b91f
+k
+;src/test/java/stepsdefinitions/front/ReservaHotelSteps.java,2\9\291ab474c5dfc36fcc82513aa91c07cc1b58d6a7
+v
+Fsrc/main/java/com/co/tevolvers/userinterface/dxhotels/BuscarHotel.java,5\e\5e801870496287e84e716d4b48008cc7ebdda151
+p
+@src/main/java/com/co/tevolvers/task/front/LlenarCamposHotel.java,d\7\d7f90ac0b4f6c7d609ea0cc5d5128e00ab807f65
+m
+=src/test/java/runners/front/TestRunnerLlenarReservaHotel.java,0\4\04a1cd7b283bdc8b434cd640bc1e56256ba00c24
+y
+Isrc/main/java/com/co/tevolvers/userinterface/dxhotels/AplicarFiltros.java,9\f\9f661bfc0a9aeab381100b4da918716fca0ff0c4
+m
+=src/main/java/com/co/tevolvers/task/front/AplicarFiltros.java,f\9\f9b6080f5ba2f61900359ad56df2e69d9f37ebf5
+{
+Ksrc/main/java/com/co/tevolvers/userinterface/dxhotels/AplicarFiltrosUI.java,5\4\5432a5580aeba12952917e433f314ff80158994e
