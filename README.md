@@ -25,6 +25,14 @@ Pasos:
 - Validar que se muestre un mensaje de reserva exitosa.
 
 ## Defectos Encontrados
+### Funcionalidad de Login
+Defecto: La funcionalidad de inicio de sesión no funciona correctamente.
+Al intentar loguearme en la web, observamos que dicha funcionalidad no permite hacer el loguin de manera exitosa, aun ingresando credenciales validas.
+
+### Funcionalidad Reserva de Hotel
+Defecto 1. : El filtro para escoger un hotel con un valor superiro a $200 no se aplica correctamente, es decir sigue mostrando los mismos hoteles aplicando cualquier valor
+Defecto 2. : No permite hacer la reserva ya que pide pide loguarse, pero esa funcionalidad presenta no funciona correctamente.
+Defecto 3. : No existe un boton "Reservar", y por este defecto y los anteriores mencionados, no se visualizara un mensaje de reserva exitosa.
 
 Como (QA), abordaría estos errores de la siguiente manera:
 
